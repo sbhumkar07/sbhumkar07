@@ -1,110 +1,71 @@
-## 💫 About Me:
-#### Hi there! 👋 I'm Sarvesh Bhumkar, a passionate Full stack Software Developer and Enthusiast, from Massachusetts.<br><br>🚀 With over 4 years of experience, I've honed my skills in crafting top-notch proprietary enterprise software products. My journey is all about utilizing diverse technologies to design, develop, and deploy enterprise-class solutions while gaining deep insights into customers' needs and product usage.<br><br> 🛠️ My tech toolkit includes C++, Python, TypeScript, JavaScript, and SQL, complemented by frameworks like React.js, Angular, Next.js, Node.js, Django, Express.js, Redux, SPFx (React), and Flask. I excel in DevOps environments with tools like AWS, Azure, Ansible, Jenkins, Docker, and Kubernetes, and thrive on Agile methodologies, automation, and microservices, driving continuous integration and high-quality software delivery.<br><br> 💻 I am Proficient in implementing secure authentication and authorization mechanisms, integrating third-party APIs and payment gateways, and ensuring high-performance and reliable user experiences in high-traffic, real-world applications, as well as in designing and optimizing CI/CD pipelines using Jenkins, GitHub Actions, and GitLab, automating builds, deployments, and testing workflows to improve development efficiency and application stability. I also have completed deep learning projects using CNN, RNN, autoencoders, transformers, LSTM, and parallel programming, achieving notable improvements in model performance. Check out my projects at <a href="https://github.com/sbhumkar07?tab=repositories" target="_blank">GitHub</a>. <br><br>🤝 I am currently seeking new opportunities in software development, specializing in full-stack development, cloud solutions, and Backend developemet. Feel free to reach out to me via <a href="mailto:sarveshbhumkar27@gmail.com" target="_blank">Email</a> or connect with me on <a href="https://linkedin.com/in/sarvesh-bhumkar" target="_blank">LinkedIn</a>. <br>
+# Hi, I'm Sarvesh Bhumkar 👋
 
+### AI Full-Stack Software Engineer | Generative AI & Agentic AI | Java & Python | RAG | AWS
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarvesh-bhumkar) 
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:sarveshbhumkar27@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yellowflash77) 
+I build **AI-powered applications, scalable backend services, and cloud-native systems** across financial services, healthcare, and enterprise platforms. My work spans **Generative AI, agentic workflows, retrieval-augmented generation (RAG), Java/Spring Boot microservices, Python/FastAPI, and React**.
 
-## 💻 Tech Stack:
-<!--### 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SharePoint Online](https://img.shields.io/badge/SharePoint%20Online-%230C6F8C.svg?style=for-the-badge&logo=sharepoint&logoColor=white)
-![Power Platform](https://img.shields.io/badge/Power%20Platform-%23009D4C.svg?style=for-the-badge&logo=power-platform&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
--->
+I enjoy solving engineering problems where **AI, backend reliability, performance, and real business impact** come together.
 
-### Programming Languages
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![SQL](https://img.shields.io/badge/sql-%23074C73.svg?style=for-the-badge&logo=sql&logoColor=white)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
-### Backend
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-### Microsoft
-![SharePoint Online](https://img.shields.io/badge/SharePoint%20Online-%230C6F8C.svg?style=for-the-badge&logo=sharepoint&logoColor=white)
-![Power Platform](https://img.shields.io/badge/Power%20Platform-%23009D4C.svg?style=for-the-badge&logo=power-platform&logoColor=white)
-![Power Apps](https://img.shields.io/badge/Power%20Apps-%23E10047.svg?style=for-the-badge&logo=powerapps&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-%23172C6D.svg?style=for-the-badge&logo=power-automate&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-%2317A2B8.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-%2303658C.svg?style=for-the-badge&logo=microsoft-365&logoColor=white)
-
-### Databases
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### Deep Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) 
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sbhumkar07&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sbhumkar07&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sbhumkar07&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<!--### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
--->
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sbhumkar07&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarvesh-bhumkar/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sarveshbhumkar04@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat&logo=github&logoColor=white)](https://github.com/sbhumkar07?tab=repositories)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sbhumkar07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I Work On
+
+- **Generative AI & Agentic Systems:** LLM applications, LangGraph agents, tool calling, conditional workflows, and human-in-the-loop controls.
+- **RAG & Enterprise Search:** Hybrid search, embeddings, reranking, citation-grounded answers, and access-aware retrieval.
+- **Backend & Full-Stack Engineering:** Java/Spring Boot and Python/FastAPI services, REST APIs, React, and secure integrations.
+- **ML & Data Engineering:** NLP, classification, SQL/Python data pipelines, model evaluation, and reporting automation.
+- **Cloud & LLMOps:** AWS, Docker, Kubernetes, CI/CD, observability, prompt regression testing, and evaluation.
+
+## 💼 Selected Professional Work
+
+### Financial Intelligence & Risk Analysis Copilot | State Street
+**Python · FastAPI · LangGraph · LangChain · AWS Bedrock · OpenSearch · RAG**
+
+Worked on a financial risk intelligence assistant connecting internal knowledge and authorized portfolio data APIs. Key engineering areas included hybrid retrieval with citations, stateful agent workflows, structured tool calls, access controls, and LLM evaluation/monitoring.
+
+### Liquidity Risk Infrastructure Modernization | State Street
+**Java · Spring Boot · SQL Server · AWS EMR Serverless · SNS · Lambda**
+
+Built backend and AWS-native processing capabilities for intraday and end-of-day liquidity risk reporting. The platform processed approximately **1.5 million financial records daily**, with a reported **55% reduction in batch runtime**.
+
+### Healthcare Claims Intelligence & Document Processing | HCLTech
+**Python · Scikit-learn · XGBoost · NLP · Pandas · SQL · FastAPI**
+
+Worked on claims data validation, predictive modeling, document processing, and ML service integration. Python and SQL automation helped reduce manual reporting effort by approximately **40%**.
+
+### AI-Powered Classroom Assistant (Kai) | Radical AI
+**React · TypeScript · Node.js · OpenAI API · Firebase**
+
+Developed features for a classroom assistant supporting contextual student Q&A, conversational workflows, and application API integrations.
+
+> Professional work is summarized at a high level. Employer source code, internal datasets, and confidential system details are not published here.
+
+## 🧰 Tech Stack
+
+| Area | Technologies |
+| --- | --- |
+| **Languages** | Python, Java, SQL, TypeScript, JavaScript |
+| **GenAI & Agents** | AWS Bedrock, OpenAI API, LangChain, LangGraph, RAG, MCP, tool calling, structured outputs |
+| **Retrieval & NLP** | OpenSearch, FAISS, embeddings, hybrid search, reranking, Hugging Face, spaCy |
+| **ML & Evaluation** | Scikit-learn, XGBoost, PyTorch, MLflow, RAGAS, LangSmith |
+| **Backend & Frontend** | FastAPI, Spring Boot, REST APIs, React, Node.js |
+| **Data & Cloud** | SQL Server, PostgreSQL, Snowflake, AWS S3, Lambda, EMR Serverless |
+| **DevOps & Observability** | Docker, Kubernetes, Jenkins, GitHub Actions, CloudWatch, Grafana |
+
+## 🔬 Public Portfolio
+
+I'm building a collection of independent, reproducible projects that demonstrate the patterns behind my work in **RAG, agent orchestration, ML, and reliable backend services**. Check the [repositories tab](https://github.com/sbhumkar07?tab=repositories) for published code.
+
+<!-- Once real public repos are published, replace the paragraph above with links and one-line descriptions. Do not link to private employer code. -->
+
+## 📊 GitHub Activity
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sbhumkar07&show_icons=true&hide_border=true)
+
+---
+
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/sarvesh-bhumkar/) · [Email](mailto:sarveshbhumkar04@gmail.com)
